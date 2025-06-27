@@ -10,7 +10,7 @@ int main() {
     cin >> x >> num;
 
    
-    priority_queue<long long, vector<long long>, greater<long long>> minHeap;
+    priority_queue<long long, vector<long long>, greater<long long>> miHeap;
 
    
     for (int i = 0; i < num; i++) {
@@ -38,5 +38,5 @@ int main() {
  
     cout << tocost << endl;
 
-    return 0;
+
 }
