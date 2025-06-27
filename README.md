@@ -20,15 +20,15 @@ week 2 :
         Meet in the Middle
 
 
-   week 3 :
-1 . read :
+week 3 :
+1. read :
    i.Chapters 6, 7, 10 – CPH
-  ii . Chapter 6 – Guide to CP
-   iii . Greedy & DP from CS218 slides and Algorithm Design
+  ii.Chapter 6 – Guide to CP
+   iii.Greedy & DP from CS218 slides and Algorithm Design
  2 .Understood:
-i . Greedy Strategy Design
-ii.  Bottom-up DP
-iii.  State Transitions & Recursion with Memoization
+  i.Greedy Strategy Design
+  ii.Bottom-up DP
+  iii.State Transitions & Recursion with Memoization
 
 
 week 4 :
