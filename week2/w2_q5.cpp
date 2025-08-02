@@ -15,14 +15,14 @@ int main() {
  
     int med = 0;
     if (a % 2 != 0) {
-        med = arr[a / 2];
+        med = arr[ (a-1) / 2];
     } else {
         med = (arr[a / 2] + arr[(a / 2) - 1]) / 2;
     }
  
     int po = 0;
     for (int i = 0; i < a; i++) {
-        po += max(med, arr[i]) - min(med, arr[i]); // This is effectively abs(arr[i] - med)
+        po += max(med, arr[i]) - min(med, arr[i]); 
     }
  
     cout << po;
